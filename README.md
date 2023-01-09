@@ -4,12 +4,12 @@
 * incorrect mask, with mask, without mask  
 
 ### Using
-Python, OpenCV, Tensorflow, Keras, Matplotlib, Numpy
+* Python, OpenCV, Tensorflow, Keras, Matplotlib, Numpy
 
 ### Result
-Accuracy: about 100% 
-Using OpenCV's Cascade Classifier, eyes and faces were recognized and cut into 180*180 sizes, resulting in improved performance.  
-When the outliers were removed directly, about 100% of the results came out.
+* Accuracy: about 100%  
+* Using OpenCV's Cascade Classifier, eyes and faces were recognized and cut into 180*180 sizes, resulting in improved performance.  
+* When the outliers were removed directly, about 100% of the results came out.
 
 ### Data
-Mix some data from Kaggle and AI-Hub
+* Mix some data from Kaggle and AI-Hub
